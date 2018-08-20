@@ -3,7 +3,7 @@
 
 An Android app for keeping up with math-related news using The Guardian's API.
 
-An API key is required to be added to ```gradle.properties```. CheckTthe Guardian's [API documentation](https://open-platform.theguardian.com/documentation/) for details.  
+An API key is required to be added to ```gradle.properties```. Check The Guardian's [API documentation](https://open-platform.theguardian.com/documentation/) for details.  
 
 <img src="https://raw.githubusercontent.com/arcanemutterings/MathWatcher/d39c83ef1ac58730198f3ae8d28383fd04fdaf23/Screenshot_1534756653.png" width="350">  <img src="https://raw.githubusercontent.com/arcanemutterings/MathWatcher/d39c83ef1ac58730198f3ae8d28383fd04fdaf23/Screenshot_1534756800.png" width="350"> 
 
